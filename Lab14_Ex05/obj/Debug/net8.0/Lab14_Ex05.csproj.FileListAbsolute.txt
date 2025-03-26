@@ -1,0 +1,15 @@
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.AssemblyInfoInputs.cache
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.AssemblyInfo.cs
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.csproj.CoreCompileInputs.cache
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.sourcelink.json
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\bin\Debug\net8.0\Lab14_Ex05.exe
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\bin\Debug\net8.0\Lab14_Ex05.deps.json
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\bin\Debug\net8.0\Lab14_Ex05.runtimeconfig.json
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\bin\Debug\net8.0\Lab14_Ex05.dll
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\bin\Debug\net8.0\Lab14_Ex05.pdb
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.dll
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\refint\Lab14_Ex05.dll
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.pdb
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\Lab14_Ex05.genruntimeconfig.cache
+C:\Users\usar\new\Lab14-CSharp-Constructors\Lab14_Ex05\obj\Debug\net8.0\ref\Lab14_Ex05.dll
